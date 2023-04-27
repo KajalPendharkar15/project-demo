@@ -1,4 +1,5 @@
 #just for test
+#just for test 2
 f= open(r"C:\Users\Kajal\OneDrive\Desktop\project\hello.txt", 'r')
 if f:
     print("File is successfully opened")
